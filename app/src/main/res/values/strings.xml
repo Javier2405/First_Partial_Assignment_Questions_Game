@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">First_partial</string>
+    <string name="welcome">Welcome, please enter your name</string>
+    <string name="name">Name</string>
+    <string name="enter">Enter name</string>
+    <string name="scoreMsg">Congratulations, you have finished, your score was</string>
+    <string name="playagain">Play again</string>
+</resources>
